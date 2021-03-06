@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 Het antwoord op je vraag is, vies
 Het antwoord op je vraag is, smerig
 Het antwoord op je vraag is, ja
+=======
+Het antwoord op je vraag is 
+ja
+ja
+ja
+>>>>>>> 653a41482745d5879814c49ddb9f4356ebc46ab5
